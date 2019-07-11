@@ -19,5 +19,5 @@ http://localhost:5000/api/post
 header key : Authorization
        value: Bearer XXX
        
-       replace XXX with copied token value
+replace XXX with copied token value
  
