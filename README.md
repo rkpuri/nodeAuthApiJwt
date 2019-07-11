@@ -12,7 +12,7 @@ To test api's, run Postman
 To generate token call login api and copy the token
 http://localhost:5000/api/login
 
-Then do a POST request and pass cpoied token in Authorization header
+Then do a POST request and pass copied token in Authorization header
 
 http://localhost:5000/api/post
 
